@@ -6,3 +6,4 @@ Nella pagina impostazioni 'magazzino-facie' vanno inseriti il token del bot con 
 Il plugin ogni 24h cerca il CPT Magazzino per articoli che hanno il meta key 'data_scadenza' uguale alla data corrente  o inferiore di un giorno alla data corrente e crea un messaggio con link dell'articolo ed il titolo e lo invia su telegram. 
 
 IL CPT Magazzino non ha nessun'altro campo abilitato, ed è solo per provare l'automazione.
+Dovresti aggiorare i permalinks prima di visualizzare l'articolo creato nel CPT magazzino
